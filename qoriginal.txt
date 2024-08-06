@@ -1,0 +1,443 @@
+Quiz Original
+3
+4
+5
+Matematica
+Quimica
+Programacao
+Fund. Informatica
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+60
+15
+15
+O que representa o coeficiente angular em uma funcao de primeiro grau?
+A inclinacao da reta.
+A ordenada no ponto de intersecao com o eixo y.
+A area sob a curva.
+A variavel independente.
+O eixo x.
+1
+Qual eh a representacao grafica de uma funcao de primeiro grau?
+Um circulo.
+Uma reta.
+Uma parabola.
+Uma curva senoidal.
+Um ponto.
+2
+O que representa o coeficiente linear (b) em uma funcao de primeiro grau?
+A inclinacao da reta.
+A interseccao com o eixo y.
+O ponto de intersecao com o eixo x.
+A derivada da funcao.
+O eixo x.
+2
+O que a inclinacao (coeficiente angular) de uma reta em um grafico de uma funcao de primeiro grau representa?
+O valor de y quando x = 0.
+A taxa de variacao de y em relacao a x.
+A ordenada no ponto de intersecao com o eixo y.
+A area sob a curva.
+O eixo x.
+2
+Se uma funcao de primeiro grau eh representada graficamente por uma reta que passa pelo ponto (2, 5) e tem uma inclinacao (coeficiente angular) de 3, qual eh a equacao da funcao?
+y = 2x + 5
+y = 3x + 2
+y = 5x + 3
+y = 3x - 1
+y = 3x + 5
+4
+Qual eh a forma geral de uma funcao quadratica?
+y = mx + b
+b y = ax + c
+y = ax^2 + bx + c
+y = kx^3
+y = exponencial(x)
+3
+O que representa o coeficiente "a" na equacao de uma funcao quadratica y = ax^2 + bx + c?
+O coeficiente linear.
+A coordenada do vertice da parabola.
+A interseccao com o eixo y.
+A taxa de variacao da funcao.
+A concavidade da parabola (para cima ou para baixo).
+5
+Qual eh a coordenada y do vertice de uma parabola com a equacao y = 3x^2 - 6x + 2?
+-2
+-1
+-6
+3
+6
+2
+Qual eh a solucao da equacao quadratica 2x^2 - 5x - 3 = 0?
+x = -1/2 e x = 3
+x = -3 e x = 1/2
+x = 3 e x = -1/2
+x = -1/3 e x = 2
+x = 1 e x = -3/2
+1
+Se a equacao quadratica x^2 + px + q = 0 tem raizes reais e distintas, qual condicao deve ser verdadeira em relacao a p e q?
+p < 0 e q < 0
+p > 0 e q > 0
+p < 0 e q > 0
+p > 0 e q < 0
+p = 0 e q = 0
+3
+Dada a funcao quadratica f(x) = 3x^2 - 12x + 9, determine o valor m nimo de f(x) e as coordenadas do vertice correspondente.
+O valor minimo eh 0, e o vertice eh (4, 0). 
+O valor minimo eh -3, e o vertice eh (-2, -3). 
+O valor minimo eh 9, e o vertice eh (6, 9). 
+O valor minimo eh -9, e o vertice eh (2, -9). 
+O valor minimo eh -3, e o vertice é (2, -3).
+5
+Considere a funcao quadratica f(x) = ax^2 + bx + c, onde a, b e c sao coeficientes reais. Se a soma das raizes da equacao f(x) = 0 eh 5 e a soma dos quadrados das raizes eh 20, qual eh o valor de a?
+a = 1
+a = 2
+a = 3
+a = 4
+a = 5
+3
+Se a parabola representada pela funcao quadratica f(x) = ax^2 + bx + c tem o vertice em (2, -3) e passa pelo ponto (4, 5), determine os valores de a, b e c.
+a = 1, b = -4, c = -7 
+a = 2, b = -4, c = -3 
+a = 3, b = -6, c = -3 
+a = -1, b = 4, c = -7 
+a = -2, b = 4, c = -3
+2
+Dada a funcao quadratica f(x) = ax^2 + bx + c, onde a, b e c s o numeros reais, se o vertice da parabola eh o ponto (1, -5) e o eixo de simetria eh x = 1, qual eh o valor de a?
+a = 2
+a = -2
+a = 4
+a = -4
+a = 1
+3
+Qual eh a equacao da parabola com vertice em (-2, 3) e que passa pelo ponto (1, 6)?
+y = 2x^2 - 8x + 7 
+y = -2x^2 + 4x + 7 
+y = 2x^2 + 8x + 7 
+y = -2x^2 - 8x + 7 
+y = 2x^2 + 8x - 7
+1
+Um estudante anotou as caracteristicas de acidos: I) tem poder corrosivo; II) sao capazes de neutralizar bases; III) sao compostos por dois elementos quimicos; IV) formam solucoes aquosas condutoras de corrente eletrica. Ele cometeu erros somente em:
+I e II
+I e III
+I e IV
+II e III
+III e IV
+2
+Os acidos, segundo a teoria de Arrhenius, sao compostos moleculares que, ao serem dissolvidos em agua, geram ions H+(aq). Como eh chamado o processo de formacao de ions que ocorre quando um acido eh dissolvido em agua?
+Dissociacao ionica.
+Eletrolise.
+Ionizacao.
+Hidratacao.
+Eletrolitica.
+3
+Qual eh o nome do composto formado quando um acido reage com uma base?
+Sal. 
+Oxido. 
+Hidroxido.
+Hidreto.
+Alcool.
+1
+Qual eh a caracteristica de sabor associada aos acidos?
+Sabor doce
+Sabor amargo 
+Sabor salgado 
+Sabor azedo 
+Sabor picante
+4
+Qual eh o termo usado para descrever uma solucao com um pH maior que 7?
+Acida.
+Neutra.
+Alcalina. 
+Salina.
+Salgada.
+3
+Qual eh o termo quimico para a reacao entre um acido e uma base para formar sal e agua?
+Combustao. 
+Oxidacao. 
+Reducao. 
+Neutralizacao.
+Precipitacao.
+4
+O que sao acidos de acordo com a teoria de Arrhenius?
+Substancias que liberam ions hidroxila (OH-) em solucao aquosa.
+Substancias que liberam ions hidrogenio (H+) em solucao aquosa.
+Substancias com sabor azedo.
+Substancias com pH neutro.
+Substancias que sao geralmente solidas a temperatura ambiente.
+2
+Qual conjunto a seguir eh composto exclusivamente por sais?
+Cu(NO3)2, CH4, K2CO3.
+PbCl2, H2O, Na3PO4.
+Ag2SO4, C2H5OH, MgBr2.
+Fe(OH)3, CO, NH4NO3.
+ZnSO4, NaCN, CaF2.
+5
+Com relacao as propriedades das bases de Arrhenius, eh incorreto afirmar:
+O hidroxido de amonio eh uma base nao metalica, bastante soluvel em agua.
+Os metais alcalinos formam monobases com alto grau de dissociacao.
+As bases formadas pelos metais alcalinos terrosos sao fracas, visto que sao moleculares por natureza.
+Os hidroxidos dos metais alcalinos terrosos sao pouco soluveis em agua.
+Uma base eh tanto mais forte quanto maior for o seu grau de ionizacao.
+3
+Qual conjunto a seguir eh composto exclusivamente por bases?
+HCl, HNO3, H2SO4.
+NaOH, KOH, Ca(OH)2.
+NH3, CH3COOH, H2CO3.
+HI, HBr, HClO4.
+H2O, H2S, HCl.
+2
+Na nomenclatura dos oxidos, como sao chamados os compostos formados por atomos de um mesmo elemento com diferentes estados de oxidacao?
+Heteroxidos.
+Peroxidos.
+Anioes.
+Superoxidos.
+Polioxidos.
+1
+Urtiga eh o nome generico dado a diversas plantas da fam lia das urticaceas, cujas folhas sao cobertas de pelos finos, os quais liberam acido formico (H CO ) que, em contato com a pele, produz uma irritacao. Para diminuir a irritacao voce usaria:
+vinagre.
+sal de cozinha
+oleo
+coalhada.
+leite de magnesia.
+5
+Dentre as seguintes bases, aponte aquelas que sao praticamente insoluveis em agua: I-NH4OH; II-Pb(OH)2; III-Sr(OH)2; IV-Cu(OH)2; V-Be(OH)2; VI-NaOH.
+V e VI.
+IV e VI.
+II, III, IV.
+II, IV, V.
+I, III, VI.
+4
+Aponte as principais diferencas entre um acido monoprotico, um acido diprotico e um acido triprotico em termos de quantos protons podem ser doados em solucao aquosa.
+Acido monoprótico pode doar dois protons, acido diprotico um proton e acido triprotico tres protons. 
+Acido monoprotico pode doar um proton, acido diprotico dois protons e acido triprotico tres protons.
+Acido monoprotico pode doar tres protons, acido diprotico dois protons e acido triprotico um proton. 
+Acido monoprotico pode doar quatro protons, acido diprótico tres protons e acido triprotico dois protons. 
+Acido monoprotico pode doar tres protons, acido diprotico um proton e acido triprotico dois protons.
+2
+Quais dos seguintes fatores sao determinantes na classificacao de um oxido como acido, basico ou neutro?
+Numero de oxidacao do elemento central.
+Eletronegatividade do elemento combinado com o oxigenio.
+Massa molar do composto.
+Cor da substancia em estado solido.
+Nivel de energia dos eletrons externos.
+2
+Qual eh o operador utilizado em Pascal para realizar uma multiplicacao?
++
+/
+*
+%
+-
+3
+Qual eh a extensao de arquivo comumente usada para programas em Pascal?
+.p 
+.pas 
+.py 
+.cpp 
+.java
+2
+Qual eh a estrutura de um programa Pascal padrao?
+begin-end. 
+start-stop. 
+program-execute. 
+main-function.
+execute-stop.
+1
+Qual comando eh usado para exibir uma mensagem na tela em Pascal?
+message() 
+show() 
+write() 
+print() 
+display()
+3
+Qual eh o operador logico usado para verificar se pelo menos uma das condicoes eh verdadeira em Pascal?
+not 
+or 
+and 
+xor 
+nor
+2
+Quem e considerado o "pai da programacao" e desenvolveu o primeiro compilador?
+Alan Turing
+Ada Lovelace
+Grace Hopper
+John von Neumann
+Dennis Ritchie
+4
+Qual e a funcao da biblioteca "stdio.h" em C?
+Manipulacao de arquivos
+Entrada e saida padrao
+Controle de memoria dinamica
+Manipulacao de strings
+Gerenciamento de tempo
+2
+Quem e o criador da linguagem de programacao Pascal e em que ano ela foi concebida?
+Dennis Ritchie, 1972.
+Niklaus Wirth, 1970.
+Guido van Rossum, 1989.
+Bjarne Stroustrup, 1983.
+James Gosling, 1995.
+2
+Quem desenvolveu o primeiro computador programavel eletronico?
+John von Neumann
+Alan Turing
+Charles Babbage
+Konrad Zuse
+Ada Lovelace
+4
+Qual funcao em C e comumente utilizada para ler uma variavel fornecida pelo usuario a partir do teclado?
+print
+scanf
+input
+read
+Eget
+2
+Em Pascal, qual eh a diferenca entre "while" e "repeat...until" em termos de condicoes de repeticao?
+Nao ha diferenca; ambos os comandos tem a mesma funcao. 
+"while" verifica a condicao antes de executar o loop, enquanto "repeat...until" verifica a condicao apos a execucao do loop. 
+"repeat...until" verifica a condicao antes de executar o loop, enquanto "while" verifica a condicao apos a execucao do loop. 
+"while" só pode ser usado para loops infinitos. 
+"repeat...until" so pode ser usado com loops for.
+2
+Em Pascal, qual eh o objetivo da diretiva "uses" no cabecalho de um programa?
+Incluir uma biblioteca externa. 
+Definir um novo tipo de dados. 
+Indicar o inicio do programa principal. 
+Declarar variaveis globais. 
+Controlar o fluxo de execução do programa.
+1
+Qual eh a principal diferenca entre um loop "for" e um loop "while" em Pascal?
+Um loop "for" eh usado para contagens fixas e um loop "while" para contagens variaveis. 
+Um loop "for" eh mais eficiente em termos de uso de memoria do que um loop "while". 
+Um loop "while" eh sempre preferivel em relacao a um loop "for" devido a sua flexibilidade. 
+Um loop "for" pode ser aninhado dentro de outro loop "for", enquanto um loop "while" nao pode. 
+Não há diferença significativa entre os dois tipos de loops em Pascal.
+1
+Qual e a diferenca entre um loop "while" e um loop "repeat...until" em Pascal?
+Ambos sao equivalentes e podem ser usados de forma intercambiavel. 
+Um loop "repeat...until" verifica a condição antes da primeira execuçao, enquanto um loop "while" verifica apos. 
+Um loop "repeat" so pode ser usado com contagens fixas. 
+Um loop "repeat...until" nao verifica a condicao e executa pelo menos uma vez. 
+A diferença eh apenas na sintaxe, ambos tem o mesmo comportamento.
+4
+Em Pascal, como voce implentaria um loop "do.while" que executa pelo menos uma vez?
+’while’ com a condicao no final.
+’for’ com uma contagem minima especificada.
+’repeat…until’ com uma conticao no final.
+’do..while’ nao exite em Pascal.
+Nenhuma das alternativas.
+1
+Quem eh considerado o pai da informatica/computacao?
+Thomas Edison
+Alan Turing
+Alexander Graham Bell
+Steve Jobs
+Albert Einstein
+2
+Qual foi o primeiro computador eletronico de uso geral?
+Macintosh
+IBM PC
+ENIAC
+Commodore 64
+Apple I
+3
+O que significa a sigla "WWW"?
+World Wide Web
+World Web Wizard
+World Wide Warehouse
+Word Wide Wait
+Nenhuma das alternativas
+1
+Qual empresa eh conhecida por criar o sistema operacional Windows?
+Apple
+IBM
+Google
+Microsoft
+Linux
+4
+Qual foi o primeiro navegador de internet criado pela Microsoft?
+Google Chrome
+Mozilla Firefox
+Internet Explorer
+Safari
+Netscape Navigator
+3
+O que significa a sigla "CPU" em informatica?
+Central Processing Unit
+Computer Personal Unit
+Central Print Unit
+Computer Power Usage
+Common Programming
+1
+Qual protocolo de Internet eh usado para enviar e-mails?
+HTTP
+FTP
+SMTP
+POP3
+IMAP
+3
+O que eh um "firewall" em informatica?
+Um dispositivo de armazenamento de dados
+Um tipo de vírus de computador 
+Uma linguagem de programação 
+Um programa que protege uma rede de ameacas 
+Um monitor de computador
+4
+Qual a unidade de medida que representa a velocidade de transmissao de dados em uma rede?
+Megapixels
+Hertz
+Bytes
+Megabytes 
+Bps
+5
+Qual eh o protocolo usado para transferencia de arquivos na web?
+HTTP
+SMTP
+TCP/IP
+FTP
+UDP
+4
+No LibreOffice Calc, qual funcao eh usada para encontrar o maior valor em um intervalo de celulas?
+MAX
+SUM
+AVG
+VLOOKUP
+CONCATENATE
+1
+Qual eh a finalidade da funcao "PROCOV" no LibreOffice Calc?
+Realizar cálculos matematicos complexos 
+Criar graficos de dados
+Procurar um valor em uma tabela e retornar um valor correspondente
+Inserir imagens em uma planilha 
+Criar macros personalizadas
+3
+No LibreOffice Calc, qual eh a funcao usada para contar o numero de celulas em um intervalo que atendem a criterios especificos?
+SOMA
+MEDIA
+CONTAR
+SE
+CONT.SE
+5
+Qual dos seguintes tipos de arquivo   um formato de arquivo de planilha amplamente usado e suportado pelo LibreOffice Calc?
+.DOCX
+.ODT
+.XLSX
+.RTF
+.PDF
+3
+No LibreOffice Math, qual eh o codigo LaTeX para representar a raiz quadrada de um numero?
+\sqrt{n}
+\frac{n}{2}
+\frac{1}{\sqrt{n}}
+\sqrt{2}
+e\frac{\sqrt{n}}{2}
+1
